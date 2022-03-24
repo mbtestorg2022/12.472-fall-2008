@@ -30,9 +30,9 @@ Kleine, T., M. Touboul, B. Bourdon, F. Nimmo, K. Mezger, H. Palme, Q.-Z. Yin, S.
 
 Hevey, Phonsie J. and Ian S. Sanders. "[A Model for Planetesimal Meltdown by Al and its Implications for Meteorite Parent Bodies](http://articles.adsabs.harvard.edu/full/2006M%26PS...41...95H)." _Meteoritics & Planetary Science_ 41, no. 1 (2006): 95-106.
 
-Sahijpal, S., P. Soni, and G. Gupta. "Numerical Simulations of the Differentiation of Accreting Planetesimals with Al and Fe as the Heat Sources." _Meteoritics & Planetary Science_ 42, no. 9 (2007): 1529-1548. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lpi.usra.edu/meetings/lpsc2006/pdf/1688.pdf)).
+Sahijpal, S., P. Soni, and G. Gupta. "Numerical Simulations of the Differentiation of Accreting Planetesimals with Al and Fe as the Heat Sources." _Meteoritics & Planetary Science_ 42, no. 9 (2007): 1529-1548. ([PDF](http://www.lpi.usra.edu/meetings/lpsc2006/pdf/1688.pdf)).
 
-Scott, Edward R. D. "Chondrites and the Protoplanetary Disk." _Annu Rev EarthPlanet Sci_ 35 (2007): 577-620. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140100)).
+Scott, Edward R. D. "Chondrites and the Protoplanetary Disk." _Annu Rev EarthPlanet Sci_ 35 (2007): 577-620. ([PDF](http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140100)).
 
 Becker R. H., R. N. Clayton, E. M. Galimov, H. Lammer, B. Marty, R. O. Pepin, and R. Wieler. "[Isotopic Signatures of Volatiles in Terrestrial Planets](https://link.springer.com/article/10.1023/A:1024610325914)." _Space Science Reviews_ 106 (2003): 377-410.
 
